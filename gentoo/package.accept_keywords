@@ -1,0 +1,57 @@
+sys-process/btop 
+www-client/firefox 
+sys-apps/flatpak 
+acct-user/flatpak
+acct-group/flatpak 
+dev-util/ostree 
+games-util/gamemode 
+games-util/mangohud 
+sys-process/nvtop 
+media-video/obs-studio 
+x11-drivers/OpenTabletDriver-bin 
+app-mobilephone/scrcpy 
+app-misc/ufetch
+app-editors/vscodium 
+app-emulation/wine-mono 
+app-emulation/wine-staging 
+sys-kernel/zen-sources 
+x11-drivers/nvidia-drivers 
+app-shells/vivid 
+games-util/lutris 
+games-action/polymc
+
+# Steam
+
+games-util/steam-meta
+games-util/steam-client-meta
+games-util/game-device-udev-rules
+games-util/steam-launcher
+
+# Pcmanfm
+x11-misc/pcmanfm 
+x11-libs/libfm 
+
+# OpenTabletDriver
+
+dev-dotnet/dotnet-sdk-bin 
+
+app-text/tldr
+net-im/discord-bin
+
+# Anime Game Launcher
+app-emulation/dxvk-bin
+games-misc/an-anime-game-launcher-bin
+
+dev-util/android-sdk-update-manager
+dev-libs/nss
+dev-libs/nspr
+www-client/torbrowser-launcher
+media-sound/lyrebird
+media-libs/babl # https://bugs.gentoo.org/856931
+app-emulation/qemu
+app-emulation/libvirt
+app-emulation/virt-manager
+games-misc/cbonsai
+
+sys-kernel/gentoo-kernel-bin
+virtual/dist-kernel
