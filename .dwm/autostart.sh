@@ -6,8 +6,8 @@ nitrogen --restore &
 
 setxkbmap us intl
 
-xinput --set-prop 'pointer:''USB GAMING MOUSE ' 'libinput Accel Profile Enabled' 0, 1 
-xinput --set-prop 'pointer:''USB GAMING MOUSE ' 'libinput Accel Speed' 0.1 
+xinput --set-prop 'pointer:''Gaming Mouse' 'libinput Accel Profile Enabled' 0, 1 
+xinput --set-prop 'pointer:''Gaming Mouse' 'libinput Accel Speed' 0.1 
 
 pulseaudio --start
 
