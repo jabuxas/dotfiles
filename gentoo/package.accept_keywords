@@ -42,6 +42,7 @@ net-im/discord-bin
 app-emulation/dxvk-bin
 games-misc/an-anime-game-launcher-bin
 
+app-editors/notepadqq
 dev-util/android-sdk-update-manager
 dev-libs/nss
 dev-libs/nspr
