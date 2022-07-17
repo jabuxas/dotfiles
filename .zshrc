@@ -133,5 +133,6 @@ alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias v="nvim"
 alias sudo="doas"
 #fm6000 -c yellow -f bass.txt -o Artix -n -m 5 -g 5 -l 15
-sh ~/Docs/pfetch/pfetch
+#sh ~/Docs/pfetch/pfetch
 #neofetch --config ~/.config/neofetch/config2.conf
+nitch
