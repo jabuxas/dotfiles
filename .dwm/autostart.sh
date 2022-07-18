@@ -2,9 +2,11 @@
 xrandr --output HDMI-0  --mode 1400x900 --pos 1920x180 --rotate normal 
 xrandr --output DVI-D-0 --primary --mode 1920x1080 --pos 0x0 --rotate normal 
 
+openrgb -p white
+
 nitrogen --restore &
 
-setxkbmap us intl
+setxkbmap br abnt2
 
 xinput --set-prop 'pointer:''Gaming Mouse' 'libinput Accel Profile Enabled' 0, 1 
 xinput --set-prop 'pointer:''Gaming Mouse' 'libinput Accel Speed' 0.1 
