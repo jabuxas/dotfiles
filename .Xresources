@@ -3,23 +3,6 @@ Xft.dpi : 94
 ! Base16 Gruvbox dark, medium
 ! Scheme: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 
-#define #282828 #282828
-#define #3c3836 #3c3836
-#define #504945 #504945
-#define #665c54 #665c54
-#define #bda393 #bdae93
-#define #d5c4a1 #d5c4a1
-#define #ebdbb2 #ebdbb2
-#define #fbf1c7 #fbf1c7
-#define #fb4934 #fb4934
-#define #fe8019 #fe8019
-#define #fabd2f #fabd2f
-#define #b8bb26 #b8bb26
-#define #8ec07c #8ec07c
-#define #83a598 #83a598
-#define #d3869b #d3869b
-#define #d65d0e #d65d0e
-
 *.foreground:   #d5c4a1
 #ifdef background_opacity
 *.background:   [background_opacity]#282828

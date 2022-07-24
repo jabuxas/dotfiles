@@ -1,8 +1,7 @@
 #!/bin/bash
-xrandr --output HDMI-0  --mode 1400x900 --pos 1920x180 --rotate normal 
-xrandr --output DVI-D-0 --primary --mode 1920x1080 --pos 0x0 --rotate normal 
+sh ~/.dwm/screenlayout.sh
 
-openrgb -p white
+sleep 1
 
 nitrogen --restore &
 
@@ -35,6 +34,6 @@ killall pasystray; pasystray & # killlall is needed in case you reset dwm, it wi
 otd &
 
 #discord & # If using regular discord.
-flatpak run com.discordapp.Discord & # If using flatpak
+#flatpak run com.discordapp.Discord & # If using flatpak
 
 #steam &

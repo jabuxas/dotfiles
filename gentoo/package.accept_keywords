@@ -53,6 +53,6 @@ app-emulation/qemu
 app-emulation/libvirt
 app-emulation/virt-manager
 games-misc/cbonsai
-
-sys-kernel/gentoo-kernel-bin
-virtual/dist-kernel
+dev-lang/nim
+app-misc/openrgb
+app-shells/nushell

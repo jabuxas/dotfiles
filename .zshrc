@@ -121,7 +121,6 @@ export PATH="$HOME/.emacs.d/bin:$PATH"
 alias xreco="xmonad --recompile && xmonad --restart"
 alias pac="doas pacman"
 alias nano="nvim"
-alias vim="nvim"
 alias p3="python3"
 alias ls="lsd --group-dirs first"
 alias cat="bat"
@@ -132,7 +131,10 @@ export VISUAL=nvim
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias v="nvim"
 alias sudo="doas"
+#alias clear="clear && fortune | cowsay | lolcat"
+alias c="clear"
 #fm6000 -c yellow -f bass.txt -o Artix -n -m 5 -g 5 -l 15
 #sh ~/Docs/pfetch/pfetch
 #neofetch --config ~/.config/neofetch/config2.conf
 nitch
+fortune | cowsay | lolcat
