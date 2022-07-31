@@ -103,7 +103,9 @@ source $ZSH/oh-my-zsh.sh
 #
 #
 # Adding LS COLORS VARIABLE
-export LS_COLORS="$(vivid generate snazzy)"
+set -o vi
+cd
+export LS_COLORS="$(vivid generate lava)"
 
 
 #Adding Doom Emacs to PATH

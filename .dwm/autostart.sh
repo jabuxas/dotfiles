@@ -24,7 +24,7 @@ dunst &
 
 lxqt-policykit-agent &
 
-touch ~/tmp/dasjdas.das
+touch ~/tmp/touchy
 rm -rf ~/tmp/*
 
 killall pasystray; pasystray & # killlall is needed in case you reset dwm, it will just spawn infinites pasystrays
