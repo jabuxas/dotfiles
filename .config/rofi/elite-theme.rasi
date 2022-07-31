@@ -5,7 +5,7 @@
  */
 
 * {
-  text-color: #bc7441;
+  text-color: #a3a3a3;
   background-color: rgba(0, 0, 0, 0);
   dark: #1c1c1c;
   // Black
@@ -25,7 +25,7 @@
   lightyellow: #ffa75d;
   //
   // Orange
-  orange: #bc7441;
+  orange: #a3a3a3;
   //
   // Blue
   blue: #6495ed;
@@ -56,7 +56,7 @@ window {
 }
 mode-switcher {
   border: 2px 0px 0px 0px;
-  background-color: #bc7441e6;
+  background-color: #a3a3a3e6;
   padding: 4px;
 }
 button selected {
@@ -81,13 +81,13 @@ element-text {
 }
 
 inputbar {
-  background-color: #bc7441e6;
+  background-color: #a3a3a3e6;
   text-color: black;
   padding: 6px;
 }
 
 element selected normal {
-  background-color: #bc744190;
+  background-color: #a3a3a390;
   text-color: black;
 }
 element normal active {

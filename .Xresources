@@ -22,3 +22,5 @@ Xft.dpi : 94
 *color13:      #d9d7cc
 *color14:      #b18a3d
 *color15:      #fdfbee
+
+#include ".config/urxvt"

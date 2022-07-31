@@ -35,7 +35,7 @@ nmap <F8> :TagbarToggle<CR>
 
 :set completeopt-=preview " For No Previews
 
-colorscheme desert
+colorscheme ayu 
 " colorscheme space-vim-dark
 
 au VimEnter * silent! !xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'

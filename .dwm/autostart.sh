@@ -31,6 +31,8 @@ killall pasystray; pasystray & # killlall is needed in case you reset dwm, it wi
 
 /usr/bin/emacs --daemon &
 
+urxvtd --quiet --opendisplay --fork
+
 otd &
 
 #discord & # If using regular discord.

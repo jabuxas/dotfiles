@@ -9,7 +9,7 @@ configuration {
 /*	xoffset: 0;*/
 /*	fixed-num-lines: true; */
 	show-icons: false;
-	terminal: "cool-retro-term";
+	terminal: "urxvt";
 /*	ssh-client: "ssh";*/
 /*	ssh-command: "{terminal} -e {ssh-client} {host} [-p {port}]";*/
 /*	run-command: "{cmd}";*/
@@ -30,7 +30,7 @@ configuration {
 /*	case-sensitive: false;*/
 /*	cycle: true;*/
 /*	sidebar-mode: true; */
-	hover-select: true;
+	hover-select: false;
 /*	eh: 1;*/
 /*	auto-select: false;*/
 /*	parse-hosts: false;*/
